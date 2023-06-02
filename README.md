@@ -8,7 +8,7 @@
 # 🏭 Libraries
 
 - [`dotfiles`](https://github.com/geekymoose/dotfiles) My dotfiles (I use Archlinux)
-- [`elephant-logger`](https://github.com/geekymoose/elephant-logger) A simple yet flexible C++ logger with customisable categories, outputs, filters, and colors for debugging purpose 
+- [`elephant-logger`](https://github.com/geekymoose/elephant-logger) A simple yet flexible C++ logger with customisable categories, outputs, filters, and colors
 
 # 🎓 Master Thesis
 
