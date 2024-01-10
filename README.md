@@ -12,8 +12,8 @@
 
 # 🎓 Master Thesis
 
-- [Thesis](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/22532) My final master thesis paper (2018)
-- [CollabServer](https://github.com/collabserver) Framework for Real-time collaboration on extensive Data Types using Strong Eventual Consistency (SEC)
+- [`Thesis``](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/22532) My final master thesis paper (2018)
+- [`CollabServer``](https://github.com/collabserver) Framework for Real-time collaboration on extensive Data Types using Strong Eventual Consistency (SEC)
 - [`collabserver-datatypes`](https://github.com/collabserver/collabserver-datatypes) Set of data types (CRDTs) to build a collaborative data usable with the CollabServer Framework
 
 # 🔧 Game Engines
