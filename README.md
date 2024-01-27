@@ -24,7 +24,6 @@
 
 # 🎮 Games
 
-- [`JustFight`](https://github.com/geekymoose/JustFight) Unity3D game with customizable weapon system (prototype for a gamejam 2020) 
 - [`BadGuysCanDance`](https://github.com/geekymoose/BadGuysCanDance) Rhythm game for 2 players (72h Ubisoft Gamejam 2019)
 - [`ShippedTooSoon`](https://github.com/geekymoose/ShippedTooSoon) One Player Dungeon Crawler in Unity 3D (McJam 2018)
 - [`battleship`](https://github.com/geekymoose/battleship) Bachelor Java Project (2nd year - Spring 2015)
