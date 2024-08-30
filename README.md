@@ -1,8 +1,8 @@
 # Hi there, I'm geekymoose 👋
 
 - 🏢 I'm currently working at Ubisoft (software architecture)
-- 🚧 I’m currently working on [coragames](https://github.com/geekymoose/coragames) (personal project)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
+- 🚧 I’m currently working on an unannounced Rust game project
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn) (see [coragames](https://github.com/geekymoose/coragames))
 - ⚡ Fun fact: I also have an art project [geekymoose_art](https://www.instagram.com/geekymoose_art)
 
 # 🏭 Libraries
@@ -26,6 +26,7 @@
 
 - [`BadGuysCanDance`](https://github.com/geekymoose/BadGuysCanDance) Rhythm game for 2 players (72h Ubisoft Gamejam 2019)
 - [`ShippedTooSoon`](https://github.com/geekymoose/ShippedTooSoon) One Player Dungeon Crawler in Unity 3D (McJam 2018)
+- [`MamanLesPetitsBateaux`](https://www.youtube.com/watch?v=V76Q6RM1u7A) Lead the little boats to safe harbor (Global Gamejam 2018)
 - [`battleship`](https://github.com/geekymoose/battleship) Bachelor Java Project (2nd year - Spring 2015)
 - [`spaceinvaders`](https://github.com/geekymoose/spaceinvaders) Java Training Project during my Bachelor (2nd year - Spring 2015)
 
