@@ -1,6 +1,6 @@
 # Hi there, I'm geekymoose 👋
 
-- 🏢 I'm currently working at Ubisoft (software architecture)
+- 🏢 I'm currently working at Ubisoft (engine programmer)
 - 🚧 I’m currently making my own indie video game
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
 - ⚡ Fun fact: I also have an art project [geekymoose_art](https://www.instagram.com/geekymoose_art)
