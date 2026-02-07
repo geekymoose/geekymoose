@@ -1,9 +1,9 @@
 # Hi there, I'm geekymoose 👋
 
 - 🙋 My name is [Constantin Masson](https://www.linkedin.com/in/constantinmasson/)
-- 🏢 I'm currently working at Ubisoft (engine programmer)
-- 🚧 I'm currently working on my own indie video game (follow my [progress](https://linktr.ee/geekymoose))
-- 🌱 I'm currently learning Godot and Rust
+- 🏢 I'm working at Ubisoft (engine programmer)
+- 🚧 I'm making my own video game (follow my [progress](https://linktr.ee/geekymoose))
+- 🌱 I'm learning Godot and Rust
 - 🎨 I'm also doing 2D art [geekymoose_art](https://www.instagram.com/geekymoose_art)
 - 🔧 My [`dotfiles`](https://github.com/geekymoose/dotfiles)
 
