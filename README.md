@@ -5,9 +5,9 @@
 - 🚧 I'm currently working on my own indie video game (follow my [progress](https://linktr.ee/geekymoose))
 - 🌱 I'm currently learning Godot and Rust
 - 🎨 I'm also doing 2D art [geekymoose_art](https://www.instagram.com/geekymoose_art)
-- 🏭 My [`dotfiles`](https://github.com/geekymoose/dotfiles)
+- 🔧 My [`dotfiles`](https://github.com/geekymoose/dotfiles)
 
-# 🔧 Game Engines
+# 🏭 Game Engines
 
 - [`fishing-time-2d`](https://github.com/geekymoose/fishing-time-2d) A small Linux 2D game in C with a reusable engine (2019)
 - [`ice-engine-3d`](https://github.com/geekymoose/ice-engine-3d) A Linux 3D engine with OpenGL made in 46 hours (Montreal Creative GameJam 2018)
